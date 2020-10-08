@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DragonSky2357/mini-twitter/static/css/main.3a91e2b1.chunk.css",
+    "main.js": "/DragonSky2357/mini-twitter/static/js/main.6acb24f6.chunk.js",
+    "main.js.map": "/DragonSky2357/mini-twitter/static/js/main.6acb24f6.chunk.js.map",
+    "runtime-main.js": "/DragonSky2357/mini-twitter/static/js/runtime-main.9e30f0c9.js",
+    "runtime-main.js.map": "/DragonSky2357/mini-twitter/static/js/runtime-main.9e30f0c9.js.map",
+    "static/js/2.5a7ce7cd.chunk.js": "/DragonSky2357/mini-twitter/static/js/2.5a7ce7cd.chunk.js",
+    "static/js/2.5a7ce7cd.chunk.js.map": "/DragonSky2357/mini-twitter/static/js/2.5a7ce7cd.chunk.js.map",
+    "index.html": "/DragonSky2357/mini-twitter/index.html",
+    "precache-manifest.9c4218d77b6cf3ab3dac57253d325673.js": "/DragonSky2357/mini-twitter/precache-manifest.9c4218d77b6cf3ab3dac57253d325673.js",
+    "service-worker.js": "/DragonSky2357/mini-twitter/service-worker.js",
+    "static/css/main.3a91e2b1.chunk.css.map": "/DragonSky2357/mini-twitter/static/css/main.3a91e2b1.chunk.css.map",
+    "static/js/2.5a7ce7cd.chunk.js.LICENSE.txt": "/DragonSky2357/mini-twitter/static/js/2.5a7ce7cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e30f0c9.js",
+    "static/js/2.5a7ce7cd.chunk.js",
+    "static/css/main.3a91e2b1.chunk.css",
+    "static/js/main.6acb24f6.chunk.js"
+  ]
+}
